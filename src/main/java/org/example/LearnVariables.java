@@ -10,5 +10,7 @@ public class LearnVariables {
         int myThirdNumber = 57;
         int sum = myThirdNumber + myFirstNumber + mySecondNumber;
         System.out.println(sum);
+        int myLastOne = 1000 - sum;
+        System.out.println(myLastOne);
     }
 }
